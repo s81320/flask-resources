@@ -2,6 +2,7 @@
 ## client server with python
 * https://bogotobogo.com/python/python_network_programming_server_client.php
 * https://www.journaldev.com/15906/python-socket-programming-server-client
+* https://realpython.com/python-sockets
 
 ## pdfs for flask tutorials
 
