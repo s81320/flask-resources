@@ -1,6 +1,7 @@
 # resources
 ## client server with python
 * https://bogotobogo.com/python/python_network_programming_server_client.php
+has follow-up pages for networking, with examples and code
 * https://www.journaldev.com/15906/python-socket-programming-server-client
 * https://realpython.com/python-sockets
 
